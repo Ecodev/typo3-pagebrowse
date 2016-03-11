@@ -1,0 +1,8 @@
+{
+    "name": "ecodev/pagebrowse",
+    "version": "1.0.0",
+    "type": "typo3-cms-extension",
+    "description": "Provides page browsing services for extensions",
+    "homepage": "https://github.com/ecodev/typo3-pagebrowse",
+    "license": "GPL-2.0+"
+}
